@@ -1,0 +1,10 @@
+exports.updatePersonalInfo = require('./updatePersonalInfo');
+exports.updateResume = require('./updateResume');
+exports.addEducation = require('./addEducation');
+exports.addEmployment = require('./addEmployment');
+exports.addSkill = require('./addSkill');
+exports.addProject = require('./addProject');
+exports.updateProject = require('./updateProject');
+exports.updateAboutMe = require('./updateAboutMe');
+exports.login = require('./authentication/login');
+exports.logout = require('./authentication/logout');
